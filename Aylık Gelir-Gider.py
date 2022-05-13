@@ -1,5 +1,3 @@
-#Ufak hatalar var düzeltilmesi gerekiyor.
-
 import time
 
 giderler={"YS":2600,
